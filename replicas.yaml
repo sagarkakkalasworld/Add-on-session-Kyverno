@@ -9,8 +9,6 @@ spec:
         resources:
           kinds:
             - Deployment
-          subresources:
-            - scale
       mutate:
         patchStrategicMerge:
           spec:
