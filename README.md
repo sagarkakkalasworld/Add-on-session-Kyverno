@@ -38,11 +38,6 @@ This repo contains all the policy YAMLs and demo configs shown during the sessio
 Feel free to fork this repo, test the policies, and suggest improvements.  
 Raise a PR or open an issue if you’ve got cool policy ideas or use cases to share!
 
----
-
-## 🙌 Acknowledgements
-
-Special thanks to all attendees who joined in after a long break—and a little shoutout to the **youngest participant** who joined in with us live 👶😉
 
 ---
 
